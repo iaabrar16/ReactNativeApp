@@ -25,7 +25,7 @@ const App = () => {
 
   return (
     <View>
-      <Text style={{ fontSize: 20, margin: 100 }}>Hey! I am Aabrar</Text>
+      <Text style={{ fontSize: 20, margin: 100 }}>Hey! I am dev brach</Text>
       <Pressable style={styles.button} onPress={() => fruit("Hello")}>
         <Text style={styles.text}>Login</Text>
       </Pressable>
